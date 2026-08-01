@@ -8,4 +8,5 @@ venv/
 .idea/
 
 dataset/mnist.pkl
+*.pkl
 
