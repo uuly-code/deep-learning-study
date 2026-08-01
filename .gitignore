@@ -1,0 +1,11 @@
+__pycache__/
+*.__pyc
+
+.venv/
+venv/
+
+.vscode/
+.idea/
+
+dataset/mnist.pkl
+
