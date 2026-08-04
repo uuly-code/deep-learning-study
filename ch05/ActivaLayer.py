@@ -76,6 +76,6 @@ class SoftmaxWithLoss:
         return dx
 
 
-x=np.array([[1,-0.5],[-2.0,3]])
-mask=(x<=0)
-print(mask)
+#x=np.array([[1,-0.5],[-2.0,3]])
+#mask=(x<=0)
+#print(mask)
